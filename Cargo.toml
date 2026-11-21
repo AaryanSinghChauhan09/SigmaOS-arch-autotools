@@ -1,10 +1,10 @@
 [package]
-name = "arch-autotools"
+name = "sigmaos-autotools"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-autotools component - SigmaOS component"
+description = "SigmaOS SigmaOS-autotools component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-autotools"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-autotools"
 
 [dependencies]
 thiserror = "2"

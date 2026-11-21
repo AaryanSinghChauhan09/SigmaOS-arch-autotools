@@ -1,4 +1,4 @@
-# SigmaOS-arch-autotools
+# SigmaOS-autotools
 
 GitHub description is a placeholder; component scope remains unclassified.
 

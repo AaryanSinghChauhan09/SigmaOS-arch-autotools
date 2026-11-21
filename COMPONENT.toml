@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-arch-autotools"
+name = "SigmaOS-autotools"
 tier = 2
 stability = "scaffold"
 language = "rust"

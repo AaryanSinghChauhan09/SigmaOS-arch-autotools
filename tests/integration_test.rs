@@ -1,4 +1,4 @@
-use arch_autotools::Component;
+use sigmaos_autotools::Component;
 
 #[test]
 fn test_component_new_aaa() {
